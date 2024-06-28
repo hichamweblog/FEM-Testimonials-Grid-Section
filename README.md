@@ -26,8 +26,8 @@ This project is a testimonials grid section built as a challenge from Frontend M
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-html-css-flexbox-grid-HjdsG7J7w)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-html-css-mrLp96tUce)
+- [Live Site URL](https://dz-testimonials-grid-section.netlify.app/)
 
 ### Built With
 
